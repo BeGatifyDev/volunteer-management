@@ -1,0 +1,17 @@
+{
+    "name": "mac/volunteer-management",
+    "description": "volunteer-manager",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mac\\VolunteerManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oluwafemi Oluwatobi Best"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
